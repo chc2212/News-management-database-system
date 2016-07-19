@@ -1,2 +1,2 @@
 $ cat .gitattributes
-*.pc linguist-language='SQL'
+*.pc linguist-language='sql'
