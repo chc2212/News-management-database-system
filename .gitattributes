@@ -1,2 +1,2 @@
 $ cat .gitattributes
-Makefile linguist-language='SQL'
+Makefile linguist-language='sql'
