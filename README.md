@@ -1,1 +1,2 @@
-# Web-based-information-system-of-shopping-mall
+# News-management-database-system
+News management database system
